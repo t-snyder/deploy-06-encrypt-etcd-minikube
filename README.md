@@ -31,6 +31,9 @@ of Prototypes as there are numerous targeted deployment instructions for each be
 particular OS.
 
 ## Prototype Deployment Steps - Step-1-startMinikube.sh
+**Note :**<br>
+*The commands within the script file (Step-1-startMinikube.sh) are meant to be copy pasted (one or a few lines at a time) into a terminal, and not run as an automated bash script.*
+
 Steps used within this prototype are as follows:
   1. Delete existing minikube
   2. Create fresh minikube
