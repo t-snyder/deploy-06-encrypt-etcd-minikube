@@ -26,7 +26,7 @@ minikube dashboard
 
 # Start a 2nd terminal to mount a local drive into minikube. The local drive path
 # will be the directory which contains the kube deployment files minikube /data directory/
-WORKDIR=/media/tim/ExtraDrive1/Projects/learn-06-encrypt-etcd-minikube
+WORKDIR=/media/tim/ExtraDrive1/Projects/deploy-06-encrypt-etcd-minikube
 
 # Create the encryption key
 ETCD_KEY=$(cat /dev/urandom | head -c 32 | base64)

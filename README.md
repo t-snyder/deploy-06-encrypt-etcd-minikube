@@ -1,4 +1,4 @@
-# Learn-06-Encrypt-ETCD-minikube
+# Deploy-06-Encrypt-ETCD-minikube
 
 ## Prototype Purpose
 The purpose of the prototype is to provide a deployment of the Kubernetes Apiserver where the etcd store is
